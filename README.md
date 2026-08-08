@@ -1,78 +1,77 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Talal+Azhar;Full+Stack+Web+Developer;Passionate+Problem+Solver;Building+Digital+Experiences" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Talal+Azhar+%F0%9F%91%8B;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;I+build+reliable%2C+scalable+APIs" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Talal%20Azhar&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=55&descSize=18" />
+
 </div>
 
-<h3 align="center">Talal Azhar 🚀 Full Stack Developer | Pakistan 🇵🇰</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=talalazhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/talalazhar?label=Followers&style=social" alt="followers" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=talal56&label=Profile%20Views&color=6366F1&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/talal56?label=Followers&style=flat-square&color=6366F1" alt="followers" />
+  <a href="mailto:talalazhar5656@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-6366F1?style=flat-square" /></a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 🔧 I focus on **backend development** — building APIs, databases, and server-side logic
+- 🚀 Currently working with **Node.js, Express.js, and MongoDB**
+- 🏗️ Solid foundation in **PHP, MySQL**, and full-stack fundamentals
+- 📚 Actively growing my skills in system design, deployment, and clean architecture
+- 🌍 Based in **Pakistan**
+- 📫 **talalazhar5656@gmail.com**
 
-- 🌍 Based in **Pakistan 🇵🇰**
-- 💻 **Full Stack Web Developer**
-- 🚀 Building **scalable web applications**
-- 🎯 Passionate about **clean code** and **problem-solving**
-- 📫 Reach me: **talalazhar5656@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() more than I'd like to admit 😄**
-
-<br clear="both">
-
+---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,php,html,css,python" />
 
-#### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,bootstrap" />
+**Backend & Runtime**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 
-#### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-#### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+**Tools & Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,railway" />
 
 </div>
 
 
+
+
+
+
+
+
+
+</div>
+
+---
 
 ### 💼 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talalazhar5656)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talal56)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talal56)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalazhar5656@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://talal56.github.io/portfolio/)
 
-
-</div>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </div>
 
 <div align="center">
-  
-### Show some ❤️ by starring some repositories!
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
