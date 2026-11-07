@@ -92,8 +92,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=talal56&show_icons=true&hide_border=true&theme=default" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talal56&layout=compact&hide_border=true&theme=default" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=talal56&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talal56&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
